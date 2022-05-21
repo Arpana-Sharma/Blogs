@@ -1,0 +1,12 @@
+#about-wrapper{
+    flex-direction: column;
+}
+#about-wrapper p{
+    padding-left: 0px;
+}
+/* #navbar-ul{
+    display: none;
+} */
+#navbar-ul{
+    padding-left: 80px;
+}
